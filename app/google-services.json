@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "424343778266",
+    "project_id": "baitaplonandroid-8036d",
+    "storage_bucket": "baitaplonandroid-8036d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424343778266:android:200f400b80d9f8bf8806e3",
+        "android_client_info": {
+          "package_name": "com.example.baitaplonandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424343778266-vapfu0vn29gs545lr2vhr0ve65f8e6nm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baitaplonandroid",
+            "certificate_hash": "792d531e49a006382b3d952b2445597fd8fdd906"
+          }
+        },
+        {
+          "client_id": "424343778266-gcg68e9d16f6v9t2lignirpekauaqn3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1fVNYomGKyvUiEdosu6hJV0Ki6ApPPKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424343778266-gcg68e9d16f6v9t2lignirpekauaqn3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

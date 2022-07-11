@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">BaiTapLonAndroid</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Log in</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_phone">Enter Phone Number</string>
+    <string name="enter_correct_email">Enter Correct Email Format</string>
+    <string name="error_matching_password">Password not match</string>
+    <string name="user_created_successfully">User created successfully</string>
+    <string name="signup_failed">Sign up failed : %1$s</string>
+    <string name="create_account">"Create Account ? "</string>
+    <string name="signup">Sign up</string>
+    <string name="failed_to_update_profile">Failed to update profile: %1$s</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="save">Save</string>
+    <string name="log_out">Log out</string>
+    <string name="change_picture">Change Picture</string>
+    <string name="remove_picture">Remove Picture</string>
+    <string name="photo_removed_successfully">Photo Removed Successfully</string>
+    <string name="profile">Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="password_changed_successfully">Password Changed Successfully</string>
+    <string name="something_went_wrong">Something went wrong: %1$s</string>
+    <string name="reset_password_instruction">Reset Password Instruction has been sent to emai :%1$s</string>
+    <string name="retry">Resend to Email</string>
+    <string name="close">Close</string>
+    <string name="email_sent_failed">Failed to sent email: %1$s</string>
+    <string name="resent_timer">Resend in: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_wait">Please wait</string>
+    <string name="no_internet">Check Internet Connection</string>
+    <string name="chat">Chat</string>
+    <string name="failed_to_fetch_doctors">Failed to fetch doctor : %1$s</string>
+    <string name="failed_to_send_request">Failed to send request : %1$s</string>
+    <string name="failed_to_cancel_request">Failed to cancel request :%1$s</string>
+    <string name="failed_to_fetch_requests">Failed to fetch : %1$s</string>
+    <string name="failed_to_deny_request">Failed to deny request: %1$s</string>
+    <string name="failed_to_accept_request">Failed to accept request:%1$s</string>
+    <string name="failed_to_fetch_chat_list">Failed to fetch chat list:%1$s</string>
+    <string name="failed_to_send_message">Failed to send message:%1$s</string>
+    <string name="failed_to_save_device_token">Failed to save device token: $1%s</string>
+    <string name="failed_to_send_notification">Failed to sent notification:%1$s</string>
+</resources>
